@@ -25,7 +25,3 @@
 <a href="https://linkedin.com/in/www.linkedin.com/in/robertkwameyeboah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/robertkwameyeboah" height="30" width="40" /></a>
 <a href="https://instagram.com/bobbi_blaq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bobbi_blaq" height="30" width="40" /></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rolky&show_icons=true&locale=en&layout=compact" alt="rolky" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rolky&show_icons=true&locale=en" alt="rolky" /></p>
